@@ -1,0 +1,8 @@
+giallo
+verde
+rosso
+blu
+viola
+arancione
+rosa
+marrone

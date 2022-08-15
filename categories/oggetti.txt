@@ -1,0 +1,5 @@
+orologi
+macchine
+cellulari/computer
+vestiti
+scarpe

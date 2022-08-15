@@ -1,0 +1,76 @@
+Piloti F1 (attuali e non)
+Piloti F1 attuali
+Calciatori <nazioni>
+Calciatori <squadre_calcio> (almeno una presenza)
+Calciatori campioni del mondo
+Calciatori che hanno vinto il pallone d'oro
+Calciatori che non giocano piu'
+Calciatori numero <numeri_1_11>
+Giocatori NBA attuali
+Giocatori NBA (attuali e non)
+Giocatori tennis (attuali e non)
+Marche <oggetti>
+Colori
+Frutta
+Verdure
+Vegetali <colori>
+Youtuber
+Youtuber italiani
+Nazioni
+Nazioni confinanti (striscia)
+Nazioni <continenti>
+Capitali
+Capitali <continenti>
+Animali
+Animali savana
+Mammiferi
+Pesci
+Uccelli
+Insetti
+Nomi maschili
+Nomi femminili
+Fiori
+Piante
+Filosofi
+Scrittori
+Poeti italiani
+Numeri primi
+Politici italiani
+Capi di stato (attuali e non, uno per nazione)
+Presidenti USA
+Discipline olimpiche
+Ciclisti
+Videogiochi single player (prevalentemente)
+Videogiochi cellulare
+Attori/attrici
+Film
+Film con/di <attori_registi>
+Serie TV
+Divinità greche/romane
+Città <regioni_italiane>
+Città <nazioni>
+Fiumi
+Cantanti italiani
+Cantanti
+Gruppi musicali
+Canali TV
+Festività
+Organi umani
+Civiltà antiche (fino ai Romani)
+Nomi con <lettere>
+Pokemon
+Personaggi famosi pelati
+Conduttori TV
+Comici
+Canzoni di <cantanti>
+Personaggi Marvel
+Stadi
+Giochi da tavolo
+Gusti gelato
+Razze cani
+Strumenti musicali
+Cibi (inteso come materie prime) con <lettere>
+Personaggi <film>
+Cartoni animati (no film animati)
+Film di animazione
+Film della <casa_film>
