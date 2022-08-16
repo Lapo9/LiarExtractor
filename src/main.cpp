@@ -6,6 +6,27 @@
 
 #include "Extractor.h"
 
+
+
+
+std::string decorate(std::string oneLineText) {
+	std::string top = "\t\t\t+";
+	std::string semiTop = "\t\t\t|";
+	int length = oneLineText.size();
+
+	for (int i = 0; i < length + 4; ++i) {
+		top += "-";
+		semiTop += " ";
+	}
+	top += "+\n";
+	semiTop += "|\n";
+
+	return top + semiTop + "\t\t\t|  " + oneLineText + "  |\n" + semiTop + top;
+}
+
+
+
+
 int main() {
 	//set console font size
 	CONSOLE_FONT_INFOEX info;
@@ -27,17 +48,18 @@ int main() {
 		std::cout << "\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n";
 		switch (command) {
 		case 'e':
-			std::cout << extractor.extractNext();
+			std::cout << decorate(extractor.extractNext());
 			break;
 		case 'c':
-			std::cout << extractor.extract();
+			std::cout << decorate(extractor.extract());
 			break;		
 		case 'r':
 			extractor.shuffle();
 			std::cout << "Categorie mischiate!";
 			break;
 		}
-		std::cout << "\n\ne: estrai prossimo\tc: estrai a caso\tr: reset\t x: exit";
+		std::cout << "\n\ne: estrai prossimo\tc: estrai a caso\tr: reset\t x: exit\n\n\n\n\n\n\n\n\n\n\n\n";
 		std::cin >> command;
 	}
 }
+
