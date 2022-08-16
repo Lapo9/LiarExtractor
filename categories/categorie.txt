@@ -46,17 +46,17 @@ Attori/attrici
 Film
 Film con/di <attori_registi>
 Serie TV
-Divinità greche/romane
-Città <regioni_italiane>
-Città <nazioni>
+Divinita' greche/romane
+Citta' <regioni_italiane>
+Citta' <nazioni>
 Fiumi
 Cantanti italiani
 Cantanti
 Gruppi musicali
 Canali TV
-Festività
+Festivita'
 Organi umani
-Civiltà antiche (fino ai Romani)
+Civilta' antiche (fino ai Romani)
 Nomi con <lettere>
 Pokemon
 Personaggi famosi pelati
